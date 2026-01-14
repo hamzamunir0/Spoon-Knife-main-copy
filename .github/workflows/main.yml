@@ -1,0 +1,9 @@
+name: My First Workflow
+on: [push] # This triggers the script every time you push code
+
+jobs:
+  hello-world-job:
+    runs-on: ubun25tu-latest
+    steps:
+      - name: Say Hello
+        run: echo "The folder setup worked!"
