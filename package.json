@@ -1,0 +1,22 @@
+{
+  "name": "spoon-knife-main",
+  "version": "1.0.0",
+  "description": "This repository is meant to provide an example for *forking* a repository on GitHub.",
+  "main": "src.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzamunir0/Spoon-Knife-main-copy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzamunir0/Spoon-Knife-main-copy/issues"
+  },
+  "homepage": "https://github.com/hamzamunir0/Spoon-Knife-main-copy#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.8"
+  }
+}
